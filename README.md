@@ -21,11 +21,7 @@ $ python imgtxtmashup.py --source_txt shittyaskscience --source_img spaceporn --
 ```
 
 ##Installation
-Use `pip` to install from github:
-
-    pip install git+https://github.com/OrganicIrradiation/imgtxtmashup.git
-
-or clone the package using git:
+Clone the package using git:
 
     git clone https://github.com/OrganicIrradiation/imgtxtmashup.git
 
